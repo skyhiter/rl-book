@@ -28,9 +28,11 @@
 
 **QQ群：** 935702193
 
+**勘误列表：** https://github.com/zhiqingxiao/rl-book/wiki/errata
+
 # Reinforcement Learning: Theory and Python Implementation
 
-**The First Reinforcement Learning Tutorial Book with Tensorflow 2 Implementation**
+**The First Reinforcement Learning Tutorial Book with TensorFlow 2 Implementation**
 
 This is a tutorial book on reinforcement learning, with explanation of theory and Python implementation.
 - Theory: Starting from a uniform mathematical framework, this book derives the theory and algorithms of reinforcement learning, including all major algorithms such as eligibility traces and soft actor-critic algithms.
